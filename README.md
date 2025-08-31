@@ -16,8 +16,7 @@ Peaking techniques were applied to improve speed performance while reducing powe
 4. Performed **transient analysis at 200ns** to evaluate speed and power efficiency.  
 5. Analyzed output waveforms (OUTn, OUTp) for comparator performance.  
 
-##  Results  
-- Achieved efficient trade-off between **speed and power** consumption.  
+##  Results    
 - Verified comparator functionality through transient response analysis.  
 - Demonstrated reduced delay with optimized transistor widths.  
 
